@@ -1,0 +1,89 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Ale.ttf",
+      "sha1": "b1ab2cc28db88f4f1f2ec7361a4357b6a4e22ff5"
+    },
+    {
+      "path": "assets/fonts/Cookie.ttf",
+      "sha1": "815acb8ae7f98dd13cd0a1334b80ec2ec51cb339"
+    },
+    {
+      "path": "assets/fonts/Fire.ttf",
+      "sha1": "d0b0242513d3983d51da514a20f2c85c9181f32a"
+    },
+    {
+      "path": "assets/images/1.jpg",
+      "sha1": "b9f7744e4ce86d01a8f8cdc05b76e5bb09619331"
+    },
+    {
+      "path": "assets/images/1.png",
+      "sha1": "0adac45f8bfa5abbf675cbd528fbbc2df3eadd64"
+    },
+    {
+      "path": "assets/images/2.jpg",
+      "sha1": "51fa7897bca8628544953779d5eb6e30a0b3de53"
+    },
+    {
+      "path": "assets/images/2.png",
+      "sha1": "1a17d7361ae570dfdaf3c488f276477e675a8ef3"
+    },
+    {
+      "path": "assets/images/3.jpg",
+      "sha1": "3da14fbfc88be712216d62c1a48732637255ab61"
+    },
+    {
+      "path": "assets/images/3.png",
+      "sha1": "69d5c329edd66b484e430ad14b2e6fee8eb5ffaa"
+    },
+    {
+      "path": "assets/images/4.jpg",
+      "sha1": "935eca09f904bf7dfda21455ba24f691f43d7dff"
+    },
+    {
+      "path": "assets/images/4.png",
+      "sha1": "d68c723226696f3176c999a2e4e8b733f740cded"
+    },
+    {
+      "path": "assets/images/5.jpg",
+      "sha1": "0ad0c8e3e488cd0672ce390e9de910b5084abaea"
+    },
+    {
+      "path": "assets/images/5.png",
+      "sha1": "2ea2c5b5e8d68eabb963231661ecd3d5e1d79d5c"
+    },
+    {
+      "path": "assets/images/6.jpg",
+      "sha1": "8f2b32c7045e39302a74f4fb2ce6f0201b7144a3"
+    },
+    {
+      "path": "assets/images/6.png",
+      "sha1": "d8c7580ca3e4546690eccc1e5469438f40d49122"
+    },
+    {
+      "path": "assets/images/7.jpg",
+      "sha1": "17f57eef0ac689a762f8de929a234df070d63402"
+    },
+    {
+      "path": "assets/images/7.png",
+      "sha1": "de89f9e7d38065d2118c718db3fb4e085d68b42f"
+    },
+    {
+      "path": "assets/images/8.jpg",
+      "sha1": "1af52dedf6e590f885f0286face965728f9de4a1"
+    },
+    {
+      "path": "assets/images/8.png",
+      "sha1": "efb6aee3a1922044f50976d16e7bd3c62c7b8adc"
+    },
+    {
+      "path": "assets/images/9.jpg",
+      "sha1": "99cabf75ffff7ed49e164eaf822822c9b8c198f0"
+    },
+    {
+      "path": "assets/images/9.png",
+      "sha1": "30b52fb644b90a44e62339a085990b95c5d56f4d"
+    }
+  ]
+}
