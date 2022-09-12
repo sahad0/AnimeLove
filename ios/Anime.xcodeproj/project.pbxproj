@@ -35,6 +35,7 @@
 		31706B1599B147A796EBC32B /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 345617AB26504FF49AD732EC /* 6.png */; };
 		BBFFE357E8E64DDEB605D28A /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = DF0246732EC54AF883F95848 /* 7.png */; };
 		99CD440C8BC147089BF87A4F /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = 833F849BC30848AFACABAE5A /* 8.png */; };
+		6D50C98E5EAF4B0AAB1B97D8 /* agentData.js in Resources */ = {isa = PBXBuildFile; fileRef = 80F5E66A4C6449AFB8BB89F3 /* agentData.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -86,6 +87,7 @@
 		345617AB26504FF49AD732EC /* 6.png */ = {isa = PBXFileReference; name = "6.png"; path = "../assets/images/6.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		DF0246732EC54AF883F95848 /* 7.png */ = {isa = PBXFileReference; name = "7.png"; path = "../assets/images/7.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		833F849BC30848AFACABAE5A /* 8.png */ = {isa = PBXFileReference; name = "8.png"; path = "../assets/images/8.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		80F5E66A4C6449AFB8BB89F3 /* agentData.js */ = {isa = PBXFileReference; name = "agentData.js"; path = "../assets/json/agentData.js"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -215,6 +217,7 @@
 				345617AB26504FF49AD732EC /* 6.png */,
 				DF0246732EC54AF883F95848 /* 7.png */,
 				833F849BC30848AFACABAE5A /* 8.png */,
+				80F5E66A4C6449AFB8BB89F3 /* agentData.js */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -337,6 +340,7 @@
 				31706B1599B147A796EBC32B /* 6.png in Resources */,
 				BBFFE357E8E64DDEB605D28A /* 7.png in Resources */,
 				99CD440C8BC147089BF87A4F /* 8.png in Resources */,
+				6D50C98E5EAF4B0AAB1B97D8 /* agentData.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -84,6 +84,10 @@
     {
       "path": "assets/images/9.png",
       "sha1": "30b52fb644b90a44e62339a085990b95c5d56f4d"
+    },
+    {
+      "path": "assets/json/agentData.js",
+      "sha1": "8015b7f25b6fff622665104ee7f94be75204a6d5"
     }
   ]
 }
