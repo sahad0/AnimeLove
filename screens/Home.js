@@ -15,14 +15,14 @@ const Home = ({ navigation }) => {
 
     const _renderItems = ({ item }) => (
         <SharedElement id={`item.${item.id}.bg`}>
-            <TouchableOpacit activeOpacity={1} onPress={() => { navigation.navigate("Details", { item, width: width, height: height }) }} style={{
+            <TouchableOpacity activeOpacity={1} onPress={() => { navigation.navigate("Details", { item, width: width, height: height }) }} style={{
                 backgroundColor: item.bg_color, width: width * 0.6, height: height * 0.46, margin: width * 0.02, alignItems: "center", borderRadius: 25, elevation: 30
             }}>
                 <Text style={{ position: "absolute", color: "white", zIndex: 99, fontSize: 40, fontFamily: "Cookie", bottom: "5%" }}>{item.name}</Text>
                 <SharedElement id={`item.${item.id}.photo`}>
                     <Image source={item.img_url} style={{ height: height * 0.4, width: width * 0.5 }} resizeMode="cover" />
                 </SharedElement>
-            </TouchableOpacit>
+            </TouchableOpacity>
         </SharedElement>
 
     )
